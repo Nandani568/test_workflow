@@ -9,5 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 test3
 
 ###  Added
+### Added
+
+- Danish translation from [@frederikspang](https://github.com/frederikspang).
+- Georgian translation from [@tatocaster](https://github.com/tatocaster).
+- Changelog inconsistency section in Bad Practices
+
 
 - Changelog
